@@ -1,6 +1,6 @@
 # cough_detection
 
-live demo at https://calvinchai.github.io/cough_detection/(https://calvinchai.github.io/cough_detection/) 
+live demo at https://calvinchai.github.io/cough_detection/
 
 I have not set up cerficate yet so make sure you allow an insecure connection
 
